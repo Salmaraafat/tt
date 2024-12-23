@@ -7,6 +7,7 @@ cout<<"welcome";
 cout<<"Dear students";
 cout<<"My name is Salma";
 cout<<"Black Friday";
+cout<<"Discount";
 }
 int sum(int a , int b)
 {
