@@ -5,3 +5,7 @@ int main()
 cout<<"Hello world!";
 cout<<"welcome";
 }
+int sum(int a , int b)
+{
+return a + b;
+}
