@@ -6,4 +6,10 @@ cout<<"Hello world!";
 cout<<"welcome";
 cout<<"Dear students";
 cout<<"My name is Salma";
+
+}
+int sum(int a , int b)
+{
+return a + b;
+
 }
